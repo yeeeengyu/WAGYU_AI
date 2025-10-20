@@ -1,0 +1,6 @@
+trl
+peft
+transformers
+bitsandbytes
+datasets
+konlpy
